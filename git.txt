@@ -1,3 +1,10 @@
 git init creation d'un repot locale
 git status
 git status --short le contenu de repot
+set user name and email
+git config --global user.name "Pat"
+git config --global user.email "pat@gmail.com"
+get user name
+git config user.name
+get user email
+git co
