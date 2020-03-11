@@ -1,0 +1,3 @@
+git init creation d'un repot locale
+git status
+git status --short le contenu de repot
